@@ -1,0 +1,9 @@
+{
+	"name": "mdwdops-adf-dev-chris",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1243402f-1586-4cea-97cb-e8afdbfb938c",
+		"tenantId": "16b3c013-d300-468d-ac64-7eda0820b6d3"
+	}
+}
